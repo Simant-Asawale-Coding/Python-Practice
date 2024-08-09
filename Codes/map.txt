@@ -1,0 +1,37 @@
+These are the rooms u visited
+
+action number:0
+room number:r11
+Perceptions:
+stench: none
+breeze: none
+glitter: none
+arrow: 0
+adjancent rooms list:
+r12
+r21
+
+action number:1
+room number:r12
+Perceptions:
+stench: none
+breeze: yes
+glitter: none
+arrow: 0
+adjancent rooms list:
+r11
+r13
+r22
+
+action number:2
+room number:r22
+Perceptions:
+stench: no
+breeze: no
+glitter: yes
+arrow: 1
+adjancent rooms list:
+r12
+r21
+r23
+r32

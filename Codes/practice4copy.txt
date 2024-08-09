@@ -1,0 +1,3 @@
+this is a string
+ count:4
+this is appended string count:4

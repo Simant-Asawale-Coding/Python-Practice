@@ -1,0 +1,9 @@
+Hello World
+wordcount: 2
+whats going on
+wordcount: 3
+this is me, simant
+wordcount: 4
+looking to be the best
+wordcount: 5
+how r u doing?wordcount: 4
