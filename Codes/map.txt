@@ -22,16 +22,4 @@ adjancent rooms list:
 r11
 r13
 r22
-
-action number:2
-room number:r22
-Perceptions:
-stench: no
-breeze: no
-glitter: yes
-arrow: 1
-adjancent rooms list:
-r12
-r21
-r23
-r32
+C:\Users\simant.asawale\Desktop\Python\Codes\map.txt
